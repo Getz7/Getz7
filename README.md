@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Jose Ignacio from Costa Rica, and I am a Software engineer who loves continuous learning, equipped with a diverse and promising skill set. Able to effectively self-manage during independent projects as well as collaborate with a team environment.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Getz7)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Getz7/Getz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
