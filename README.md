@@ -10,7 +10,7 @@ Skills: JAVA / C# / ANGULAR/ JS / HTML / CSS
 - ⚡ Fun fact: Anthony Bourdain is my biggest inspiration 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Getz7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-ignacio-vargas-jaramillo/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Getz7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-ignacio-vargas-jaramillo-045a132a2/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Getz7)](https://github.com/anuraghazra/github-readme-stats)
 
