@@ -4,7 +4,7 @@ I am a full stack software developer with experience in designing, developing, a
 
 Skills: JAVA / C# / ANGULAR/ JS / HTML / CSS
 
-- 🔭 I’m currently working on Portfolio 
+- 🔭 I’m currently working on Personal Project 
 - 🌱 I’m currently learning Flutter and dart 
 - 📫 How to reach me: vargasjaramillojoseignacio@gmail.com 
 - ⚡ Fun fact: Anthony Bourdain is my biggest inspiration 
