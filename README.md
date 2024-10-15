@@ -2,7 +2,6 @@
 #### Software Developer
 I am a full stack software developer with experience in designing, developing, and deploying robust and scalable web applications. I have strong expertise in both frontend and backend technologies, including JavaScript,Angular, Node.js, and SQL/NoSQL databases.
 
-- 🔭 I’m currently working on Personal Project 
 - 🌱 I’m currently learning Flutter and dart 
 - 📫 How to reach me: vargasjaramillojoseignacio@gmail.com 
 - ⚡ Fun fact: Anthony Bourdain is my biggest inspiration 
