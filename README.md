@@ -47,7 +47,7 @@ I am a full stack software developer with experience in designing, developing, a
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Getz7)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 #### Socials
